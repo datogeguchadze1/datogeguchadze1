@@ -51,7 +51,7 @@ Train ticket booking system using Step Academy's railway API with a full authent
 ### Portfolio Website
 Personal portfolio with dark/light theme toggle and Georgian/English language switch.
 
-[Live Demo](https://datoportfolio.netlify.app) · [GitHub](https://github.com/datogeguchadze1/saboloo)
+[Live Demo](https://dato-portfolio.netlify.app/) · [GitHub](https://github.com/datogeguchadze1/saboloo)
 
 ---
 
