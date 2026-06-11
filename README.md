@@ -23,14 +23,14 @@ Junior Frontend Developer from Rustavi, Georgia. Currently studying Full Stack D
 ### LUXE Shop — E-commerce App
 Angular 21 e-commerce app with an AI chatbot (Gemini + Pinecone RAG), Telegram bot integration, automated order confirmation emails, and n8n automation workflows.
 
-[Live Demo](https://step-shop-v1.netlify.app) · [GitHub](https://github.com/datogeguchadze1/ang1)
+[Live Demo](https://step-shop-v1.netlify.app) · [GitHub](https://github.com/datogeguchadze1/shop-app-final)
 
 ---
 
 ### Weather App
 Clean weather application with real-time data.
 
-[Live Demo](https://test-weather-website-v1.netlify.app/) · [GitHub](https://github.com/datogeguchadze1)
+[Live Demo](https://test-weather-website-v1.netlify.app/) · [GitHub](https://github.com/datogeguchadze1/weather-app)
 
 ---
 
@@ -44,14 +44,14 @@ Task management app built with Angular.
 ### Railway Booking App
 Train ticket booking system using Step Academy's railway API with a full authentication flow.
 
-[Live Demo](https://dato-railway.netlify.app) · [GitHub](https://github.com/datogeguchadze1/ang3)
+[Live Demo](https://dato-railway.netlify.app) · [GitHub](https://github.com/datogeguchadze1/railway)
 
 ---
 
 ### Portfolio Website
 Personal portfolio with dark/light theme toggle and Georgian/English language switch.
 
-[Live Demo](https://dato-portfolio.netlify.app/) · [GitHub](https://github.com/datogeguchadze1/saboloo)
+[Live Demo](https://dato-portfolio.netlify.app/) · [GitHub](datogeguchadze1/angular-portfolio-2-)
 
 ---
 
