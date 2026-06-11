@@ -7,6 +7,7 @@ Junior Frontend Developer from Rustavi, Georgia. Currently studying Full Stack D
 ## Tech Stack
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -36,14 +37,14 @@ Clean weather application with real-time data.
 ### Todo App
 Task management app built with Angular.
 
-[GitHub](https://github.com/datogeguchadze1/Todo)
+[Live Demo](https://homework-todo-v1.netlify.app) · [GitHub](https://github.com/datogeguchadze1/Todo)
 
 ---
 
 ### Railway Booking App
 Train ticket booking system using Step Academy's railway API with a full authentication flow.
 
-[GitHub](https://github.com/datogeguchadze1/ang3)
+[Live Demo](https://dato-railway.netlify.app) · [GitHub](https://github.com/datogeguchadze1/ang3)
 
 ---
 
@@ -62,5 +63,4 @@ Personal portfolio with dark/light theme toggle and Georgian/English language sw
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/datogeguchadze)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:datogeguchadze1@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:datogeguchadze304@gmail.com)
