@@ -30,7 +30,7 @@ Angular 21 e-commerce app with an AI chatbot (Gemini + Pinecone RAG), Telegram b
 ### Weather App
 Clean weather application with real-time data.
 
-[Live Demo](https://weatherapp-dato.netlify.app) · [GitHub](https://github.com/datogeguchadze1)
+[Live Demo](https://test-weather-website-v1.netlify.app/) · [GitHub](https://github.com/datogeguchadze1)
 
 ---
 
