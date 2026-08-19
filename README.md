@@ -1,6 +1,6 @@
 # Hi, I'm Dato
 
-Junior Frontend Developer from Rustavi, Georgia. Currently studying Full Stack Development at **IT Academy Step**, focused on building real-world apps with Angular and modern web technologies.
+Junior Frontend Developer from Georgia. Currently studying Full Stack Development at **IT Academy Step**, focused on building real-world apps with Angular and modern web technologies.
 
 ---
 
