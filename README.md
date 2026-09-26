@@ -55,11 +55,6 @@ Personal portfolio with dark/light theme toggle and Georgian/English language sw
 
 ---
 
-## GitHub Stats
-
-![Dato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=datogeguchadze1&show_icons=true&theme=tokyonight&hide_border=true)
-
----
 
 ## Contact
 
