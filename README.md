@@ -55,6 +55,10 @@ Personal portfolio with dark/light theme toggle and Georgian/English language sw
 
 ---
 
+### Samurai
+Samurai style website with cool stuff.
+
+[Live Demo](https://samurai-project.netlify.app/) · [GitHub](https://github.com/datogeguchadze1/samurai-project)
 
 ## Contact
 
