@@ -60,6 +60,8 @@ Samurai style website with cool stuff.
 
 [Live Demo](https://samurai-project.netlify.app/) · [GitHub](https://github.com/datogeguchadze1/samurai-project)
 
+---
+
 ### Western
 Western style website with cool stuff.
 
