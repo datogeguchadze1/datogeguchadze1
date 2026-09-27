@@ -60,6 +60,11 @@ Samurai style website with cool stuff.
 
 [Live Demo](https://samurai-project.netlify.app/) · [GitHub](https://github.com/datogeguchadze1/samurai-project)
 
+### Western
+Western style website with cool stuff.
+
+[Live Demo](https://western-style.netlify.app/) · [GitHub](https://github.com/datogeguchadze1/western-style)
+
 ## Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:datogeguchadze304@gmail.com)
